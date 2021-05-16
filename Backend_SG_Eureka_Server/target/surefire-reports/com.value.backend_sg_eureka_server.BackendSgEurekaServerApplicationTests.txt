@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.value.backend_sg_eureka_server.BackendSgEurekaServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.973 s - in com.value.backend_sg_eureka_server.BackendSgEurekaServerApplicationTests
